@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">GoTrav</string>
+
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_me">About Me</string>
+
+    <string-array name="data_name">
+        <item>Pantai Losari</item>
+        <item>Pulau Samalona</item>
+        <item>Pulau Gusung</item>
+        <item>Taman Laut TakaBonerate</item>
+        <item>Taman Nasional Bantimurung</item>
+        <item>Malino</item>
+        <item>Benteng Somba opu</item>
+        <item>Pantai Tanjung Bira</item>
+        <item>Pusat Kerajinan Perahu Phinisi</item>
+        <item>Goa Tampang Allo</item>
+        <item>Ke\'te Kesu</item>
+        <item>Pulau Bulupoloe</item>
+        <item>Pulau Kapoposang</item>
+        <item>Pulau Cangke</item>
+        <item>Pulau Dutungan</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pantai Losari adalah destinasi wisata pantai yang terkenal di kota Makassar, Sulawesi Selatan, Indonesia. Pantai ini menawarkan panorama pantai yang indah dengan pasir putih yang luas, taman yang indah sebagai tempat favorit untuk menikmati sunset, serta beragam kuliner khas Makassar yang bisa dicicipi seperti Coto Makassar, Konro Bakar, dan Sop Saudara. Selain itu, Pantai Losari juga sering dijadikan tempat untuk event-event besar seperti festival, konser, dan pertunjukan seni, sehingga menjadi destinasi wisata yang cukup populer dan banyak dikunjungi oleh wisatawan baik lokal maupun mancanegara.</item>
+        <item>Pulau Samalona adalah sebuah destinasi wisata pantai yang terletak di Kota Makassar, Sulawesi Selatan, Indonesia. Pulau ini terkenal dengan keindahan alam bawah lautnya yang mempesona, sehingga menjadi surga bagi para penyelam dan penggemar snorkeling. Di samping itu, Pulau Samalona juga memiliki pantai berpasir putih yang indah dengan air laut yang jernih dan tenang, sehingga menjadi tempat yang tepat untuk berenang dan berjemur. Untuk mencapai pulau ini, wisatawan dapat menempuh perjalanan menggunakan perahu dari Pelabuhan Paotere di Kota Makassar. Pulau Samalona merupakan destinasi wisata yang sangat direkomendasikan bagi wisatawan yang ingin menikmati keindahan alam bawah laut dan keindahan pantai di Sulawesi Selatan.</item>
+        <item>Pulau Gusung adalah sebuah pulau kecil yang terletak di lepas pantai Tanjung Bira, Kabupaten Bulukumba, Sulawesi Selatan, Indonesia. Pulau ini terkenal dengan keindahan pasir putihnya yang halus dan air lautnya yang jernih, serta memiliki batu karang yang unik yang bisa dijadikan spot foto yang menarik. Selain itu, Pulau Gusung juga menjadi tempat favorit untuk bersantai dan menikmati keindahan panorama laut dan sunset. Untuk mencapai pulau ini, wisatawan dapat menempuh perjalanan menggunakan perahu dari Tanjung Bira dengan waktu tempuh sekitar 20-30 menit. Pulau Gusung merupakan destinasi wisata yang sangat direkomendasikan bagi wisatawan yang mencari tempat yang tenang dan damai untuk bersantai di Sulawesi Selatan.</item>
+        <item>Taman Laut Taka Bonerate adalah salah satu destinasi wisata bahari yang terletak di perairan Takabonerate, Kabupaten Kepulauan Selayar, Sulawesi Selatan, Indonesia. Taman Laut ini terkenal sebagai lokasi penyelaman yang menakjubkan dengan keindahan alam bawah laut yang spektakuler. Keindahan alam bawah laut Taman Laut Taka Bonerate dihiasi oleh berbagai jenis biota laut yang sangat bervariasi, mulai dari ikan-ikan tropis, terumbu karang, hingga hiu paus yang menjadi ikon dari Taman Laut ini. Selain aktivitas menyelam, wisatawan juga dapat menikmati keindahan laut dan pulau-pulau kecil di sekitar Taman Laut Taka Bonerate dengan melakukan snorkeling atau berkeliling dengan kapal. Taman Laut Taka Bonerate merupakan destinasi wisata yang sangat direkomendasikan bagi para pecinta alam bawah laut dan petualangan laut di Sulawesi Selatan.</item>
+        <item>Taman Nasional Bantimurung adalah sebuah destinasi wisata alam yang terletak di Kabupaten Maros, Sulawesi Selatan, Indonesia. Taman Nasional ini terkenal dengan keindahan panorama alamnya yang menakjubkan, dengan sungai yang mengalir dan air terjun yang indah. Di Taman Nasional Bantimurung, wisatawan dapat menemukan berbagai jenis flora dan fauna yang hanya dapat ditemukan di Sulawesi Selatan, seperti kupu-kupu jenis Raja Brooke dan kupu-kupu hitam dengan ekor panjang. Selain itu, Taman Nasional Bantimurung juga menjadi tempat favorit untuk hiking dan trekking, sehingga dapat memberikan pengalaman wisata yang tak terlupakan. Taman Nasional Bantimurung merupakan destinasi wisata yang sangat direkomendasikan bagi wisatawan yang mencari tempat yang damai dan indah di tengah alam bebas di Sulawesi Selatan.</item>
+        <item>Malino adalah sebuah kawasan wisata yang terletak di Kabupaten Gowa, Sulawesi Selatan, Indonesia. Kawasan wisata ini terkenal dengan udaranya yang sejuk dan udara pegunungan yang sejuk serta memiliki keindahan alam yang menakjubkan. Di Malino, wisatawan dapat menemukan berbagai jenis tanaman dan hutan tropis yang hijau dan lebat, serta air terjun yang indah. Selain itu, Malino juga terkenal dengan berbagai olahan makanan tradisional yang enak dan khas, seperti jagung bakar, pisang epe, dan kue-kue tradisional. Malino merupakan destinasi wisata yang sangat direkomendasikan bagi wisatawan yang mencari tempat yang damai dan alami serta menikmati suasana pegunungan yang sejuk dan hijau di Sulawesi Selatan.</item>
+        <item>Benteng Somba Opu adalah sebuah situs sejarah dan destinasi wisata yang terletak di Kota Makassar, Sulawesi Selatan, Indonesia. Benteng ini dibangun pada abad ke-16 oleh Kerajaan Gowa sebagai benteng pertahanan dan tempat tinggal para raja. Benteng Somba Opu memiliki arsitektur yang khas dengan paduan gaya Eropa, Cina, dan lokal Sulawesi Selatan. Di dalam benteng ini, wisatawan dapat menemukan berbagai macam benda-benda sejarah seperti meriam, keramik, dan pakaian tradisional raja-raja Gowa. Selain itu, wisatawan juga dapat menikmati keindahan lingkungan di sekitar Benteng Somba Opu, termasuk Taman Makam Pahlawan yang bersejarah dan Masjid Raya Makassar yang terletak di dekatnya. Benteng Somba Opu merupakan destinasi wisata yang sangat direkomendasikan bagi wisatawan yang mencari pengalaman sejarah dan budaya Sulawesi Selatan yang kaya dan beragam.</item>
+        <item>Pantai Tanjung Bira adalah salah satu destinasi wisata pantai yang terletak di ujung selatan Sulawesi Selatan, Indonesia. Pantai ini dikenal dengan pasir putih yang bersih dan air laut yang jernih. Selain itu, Pantai Tanjung Bira juga menawarkan pemandangan yang menakjubkan dengan perbukitan di sekitarnya dan batu karang yang indah di dekat pantai. Di sini, wisatawan dapat menikmati kegiatan seperti berjemur, berenang, snorkeling, atau bersantai sambil menikmati pemandangan yang indah. Tidak hanya itu, Pantai Tanjung Bira juga merupakan tempat yang cocok untuk menikmati matahari terbenam yang memukau. Pantai Tanjung Bira merupakan destinasi wisata yang sangat direkomendasikan bagi para wisatawan yang ingin menikmati liburan yang santai dan menikmati keindahan alam pantai di Sulawesi Selatan.</item>
+        <item>Pusat Kerajinan Perahu Phinisi Bulukumba adalah destinasi wisata yang terletak di Kabupaten Bulukumba, Sulawesi Selatan, Indonesia. Tempat ini menjadi pusat produksi perahu tradisional Sulawesi Selatan, yaitu phinisi, yang terkenal dengan kekuatan dan keindahannya dalam mengarungi perairan Indonesia dan luar negeri. Di Pusat Kerajinan Perahu Phinisi Bulukumba, wisatawan dapat melihat secara langsung bagaimana perahu phinisi dibuat oleh para tukang kayu setempat. Selain itu, wisatawan juga dapat membeli berbagai macam kerajinan tangan seperti miniatur perahu phinisi, tas, dan ukiran kayu sebagai oleh-oleh. Pusat Kerajinan Perahu Phinisi Bulukumba merupakan destinasi wisata yang sangat direkomendasikan bagi wisatawan yang ingin mengetahui lebih dalam tentang budaya dan sejarah maritim Sulawesi Selatan serta memperoleh pengalaman berbelanja kerajinan tangan lokal di sana.</item>
+        <item>Goa Tampang Allo Toraja adalah sebuah gua yang terletak di desa Lembang, kecamatan Maruang, kabupaten Tana Toraja, Sulawesi Selatan, Indonesia. Gua ini terkenal dengan keindahan alam bawah tanah yang dimilikinya. Di dalam goa terdapat air terjun, stalaktit dan stalakmit yang indah serta kolam air jernih yang menambah keindahan gua tersebut. Selain itu, guide lokal yang tersedia akan memberikan informasi tentang sejarah dan keunikan Goa Tampang Allo di Toraja. Para wisatawan yang berkunjung ke sini dapat menikmati keindahan alam sekitar dan juga berjalan-jalan di sekitar gua. Goa Tampang Allo Toraja adalah destinasi wisata yang sangat cocok bagi wisatawan yang ingin mengeksplorasi gua dan menikmati keindahan alam bawah tanah yang menakjubkan.</item>
+        <item>Ke\'te Kesu adalah sebuah desa wisata yang terletak di Kecamatan Sangalla, Kabupaten Toraja Utara, Sulawesi Selatan, Indonesia. Desa ini dikenal sebagai tempat untuk melihat dan mempelajari budaya Toraja, terutama mengenai arsitektur dan adat istiadat. Di sana, wisatawan dapat melihat rumah-rumah tradisional yang terbuat dari kayu dan bambu serta batu bersejarah, dan juga berbagai macam benda-benda tradisional seperti ukiran kayu, tenun, dan senjata tradisional. Selain itu, di desa Ke\'te Kesu juga terdapat pusat informasi yang menyediakan informasi sejarah dan kebudayaan Toraja. Destinasi wisata ini sangat cocok bagi para wisatawan yang ingin mempelajari budaya Toraja yang kaya dan menikmati keindahan arsitektur tradisional yang masih terjaga dengan baik.</item>
+        <item>Bulupoloe di Luwu Timur adalah sebuah destinasi wisata alam yang terkenal dengan keindahan alam bawah lautnya. Terletak di Kabupaten Luwu Timur, Sulawesi Selatan, Indonesia, wisatawan dapat menikmati keindahan terumbu karang yang memukau dengan beragam ikan dan biota laut lainnya. Selain itu, wisatawan juga dapat bersantai di pantai yang bersih dan menikmati pemandangan indah sekitar. Ada juga guide lokal yang siap membantu para wisatawan untuk mengeksplorasi keindahan alam bawah laut dan tempat-tempat menarik lainnya di sekitar Bulupoloe. Destinasi wisata ini cocok bagi para penggemar diving dan snorkeling serta para wisatawan yang ingin menikmati keindahan alam yang masih alami dan menenangkan.</item>
+        <item>Pulau Kapoposang adalah salah satu destinasi wisata terkenal di daerah Pangkep, Sulawesi Selatan, Indonesia. Terkenal dengan pasir putihnya yang lembut dan air laut yang jernih dan biru, pulau ini menawarkan pengalaman yang luar biasa bagi para wisatawan yang ingin bersantai dan menikmati keindahan alam di pulau tropis yang masih alami. Selain itu, wisatawan juga dapat melakukan aktivitas seperti snorkeling dan diving untuk mengeksplorasi keindahan bawah laut yang kaya dengan terumbu karang dan ikan yang beragam. Ada beberapa penginapan yang tersedia di pulau Kapoposang dan guide lokal yang dapat membantu para wisatawan untuk menemukan tempat-tempat menarik dan tersembunyi di pulau ini. Destinasi wisata ini cocok bagi para wisatawan yang ingin merasakan sensasi hidup di pulau tropis dan menikmati keindahan alam bawah laut yang masih alami dan menakjubkan.</item>
+        <item>Pulau Cangke adalah destinasi wisata yang terletak di daerah Pangkep, Sulawesi Selatan, Indonesia. Pulau ini dikenal dengan pantainya yang indah dan air lautnya yang jernih serta pasir putihnya yang lembut. Selain itu, wisatawan dapat menikmati keindahan terumbu karang yang memukau dengan beragam ikan dan biota laut lainnya. Pulau ini masih terjaga kealamianya dan dijaga oleh masyarakat setempat. Ada beberapa penginapan sederhana yang tersedia di pulau Cangke dan guide lokal yang dapat membantu para wisatawan untuk menemukan tempat-tempat menarik dan tersembunyi di pulau ini. Destinasi wisata ini cocok bagi para wisatawan yang ingin merasakan hidup di pulau tropis yang masih alami dan menikmati keindahan alam bawah laut yang masih alami dan menakjubkan.</item>
+        <item>Pulau Dutungan adalah destinasi wisata yang terletak di Kabupaten Barru, Sulawesi Selatan, Indonesia. Pulau ini dikenal dengan keindahan pantai berpasir putih yang memikat dan air lautnya yang jernih dan biru, serta keindahan terumbu karang yang masih alami. Para wisatawan dapat melakukan aktivitas snorkeling dan diving untuk mengeksplorasi keindahan alam bawah laut yang memukau dengan keanekaragaman hayati yang kaya. Di pulau ini terdapat beberapa penginapan sederhana dan tempat makan yang menyajikan masakan khas daerah setempat. Wisatawan dapat menikmati suasana tenang dan jauh dari kebisingan kota di pulau ini. Destinasi wisata ini cocok bagi para wisatawan yang mencari ketenangan dan ingin menikmati keindahan alam yang masih alami di sebuah pulau tropis yang memukau.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/pantai_losari</item>
+        <item>@drawable/pulau_samalona</item>
+        <item>@drawable/pulau_gusung</item>
+        <item>@drawable/laut_takabonerate</item>
+        <item>@drawable/taman_nasional_bantimurung</item>
+        <item>@drawable/malino</item>
+        <item>@drawable/benteng_somba_opu</item>
+        <item>@drawable/pantai_tanjung_bira</item>
+        <item>@drawable/pusat_kerajinan_perahu_phinisi</item>
+        <item>@drawable/goa_tampang_allo</item>
+        <item>@drawable/kete_kesu</item>
+        <item>@drawable/pulau_bulupoloe</item>
+        <item>@drawable/pulau_kapoposang</item>
+        <item>@drawable/pulau_cangke</item>
+        <item>@drawable/pulau_dutungan</item>
+    </integer-array>
+
+    <string-array name="link_map">
+        <item>https://goo.gl/maps/FrxBX7ErPz4rCev17</item>
+        <item>https://goo.gl/maps/mP3SnufSe4SF9etJ9</item>
+        <item>https://goo.gl/maps/HihCTLBF2NCfachq8</item>
+        <item>https://goo.gl/maps/3G6WFmtHcCntQypm7</item>
+        <item>https://goo.gl/maps/h9jDtPdpX3DWdk8E8</item>
+        <item>https://goo.gl/maps/X6RQcwdsWQKMY6mz7</item>
+        <item>https://goo.gl/maps/ThddMNcZLCAToX1m8</item>
+        <item>https://goo.gl/maps/mxMF7MhunXpCoiT59</item>
+        <item>https://goo.gl/maps/vifjCyBgpp2P8Xrs8</item>
+        <item>https://goo.gl/maps/WJ8RqrYEEbm5qFsE6</item>
+        <item>https://goo.gl/maps/QVKgbRxXyi3rPEgF6</item>
+        <item>https://goo.gl/maps/UE2hSXV34KXu3uvi6</item>
+        <item>https://goo.gl/maps/tjvFTHAS3CYxHexe8</item>
+        <item>https://goo.gl/maps/34nTBPZjbRxjy7oT8</item>
+        <item>https://goo.gl/maps/aUL2toPdHLVYMXFx7</item>
+    </string-array>
+</resources>
