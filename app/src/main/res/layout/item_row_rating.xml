@@ -45,7 +45,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/user"
                     android:textSize="16sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:textColor="@android:color/black"/>
 
                 <RatingBar
                     android:id="@+id/userRating"
@@ -64,7 +65,8 @@
                 android:layout_height="wrap_content"
                 android:text="4.5"
                 android:textSize="16sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:textColor="@android:color/black"/>
 
         </LinearLayout>
 

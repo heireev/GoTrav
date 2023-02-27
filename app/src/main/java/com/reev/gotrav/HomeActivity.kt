@@ -1,6 +1,7 @@
 package com.reev.gotrav
 
 import android.content.Intent
+import android.graphics.drawable.ColorDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
@@ -14,10 +15,11 @@ class HomeActivity : AppCompatActivity() {
     private val list = ArrayList<Wisata>()
 
 
-
+    @Suppress("DEPRECATION")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
+        supportActionBar?.setBackgroundDrawable(ColorDrawable(resources.getColor(R.color.blue_700)))
 
         rvWisata = findViewById(R.id.rv_wisata)
         rvWisata.setHasFixedSize(true)

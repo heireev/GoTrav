@@ -56,7 +56,7 @@
         <item>Pulau Dutungan adalah destinasi wisata yang terletak di Kabupaten Barru, Sulawesi Selatan, Indonesia. Pulau ini dikenal dengan keindahan pantai berpasir putih yang memikat dan air lautnya yang jernih dan biru, serta keindahan terumbu karang yang masih alami. Para wisatawan dapat melakukan aktivitas snorkeling dan diving untuk mengeksplorasi keindahan alam bawah laut yang memukau dengan keanekaragaman hayati yang kaya. Di pulau ini terdapat beberapa penginapan sederhana dan tempat makan yang menyajikan masakan khas daerah setempat. Wisatawan dapat menikmati suasana tenang dan jauh dari kebisingan kota di pulau ini. Destinasi wisata ini cocok bagi para wisatawan yang mencari ketenangan dan ingin menikmati keindahan alam yang masih alami di sebuah pulau tropis yang memukau.</item>
     </string-array>
 
-    <integer-array name="data_photo">
+    <string-array name="data_photo">
         <item>@drawable/pantai_losari</item>
         <item>@drawable/pulau_samalona</item>
         <item>@drawable/pulau_gusung</item>
@@ -72,7 +72,7 @@
         <item>@drawable/pulau_kapoposang</item>
         <item>@drawable/pulau_cangke</item>
         <item>@drawable/pulau_dutungan</item>
-    </integer-array>
+    </string-array>
 
     <string-array name="link_map">
         <item>https://goo.gl/maps/FrxBX7ErPz4rCev17</item>
