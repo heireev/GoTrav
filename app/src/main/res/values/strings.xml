@@ -3,7 +3,22 @@
 
     <string name="wisata_name">Nama Wisata</string>
     <string name="description">Deskripsi</string>
+    <string name="location">Lokasi Wisata</string>
     <string name="about_me">About Me</string>
+
+    <string name="hello">Aloo y\'all</string>
+    <string name="my_name">My name is Reev</string>
+    <string name="my_desc">as Bangkit Cohort 2023 - Mobile Developement</string>
+    <string name="reach_me_on">Reach me on</string>
+
+    <string name="insta">Instagram</string>
+    <string name="github">Github</string>
+
+    <string name="dummy_photos">6 photos</string>
+    <string name="kunjungi">Kunjungi Map</string>
+    <string name="user">User Unknown</string>
+    <string name="pendapat">Pendapat orang lain tentang tempat ini :</string>
+    <string name="share">share</string>
 
     <string-array name="data_name">
         <item>Pantai Losari</item>
@@ -76,4 +91,6 @@
         <item>https://goo.gl/maps/34nTBPZjbRxjy7oT8</item>
         <item>https://goo.gl/maps/aUL2toPdHLVYMXFx7</item>
     </string-array>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id diam id nulla congue hendrerit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque in massa in turpis porttitor dictum. Nam quis magna nulla. Sed bibendum sapien quis augue consectetur, eu pulvinar odio tristique. Nulla facilisi. Nullam finibus vestibulum est, vitae commodo elit rhoncus id. Quisque non tellus erat. Quisque commodo, tellus sit amet eleifend eleifend, nunc augue laoreet dolor, nec dignissim justo turpis id sem. Vivamus vel nibh nisi. In et ex lorem. Vivamus sagittis lectus vitae mi faucibus, eu tristique ex pulvinar. Vivamus suscipit eu urna nec faucibus. Sed quis metus eget sapien fringilla fringilla eget nec urna. Ut euismod sagittis diam, ac vulputate leo sagittis vel.</string>
 </resources>
